@@ -88,6 +88,7 @@ header {
 
     nav {
         grid-area: nav;
+        background-image: linear-gradient(0deg, rgba(34,107,195,1) 0%, rgba(9,9,7,1) 59%);
         list-style-type:none;
         background-color: black;
         font-family: 'Concert One', cursive;
